@@ -112,6 +112,10 @@ blockquote {
   color: white;
 }
 
+.tm-nav-link--special {
+  color: red;
+}
+
 .tm-navbar.scroll .tm-nav-link {
   color: #369;
 }
